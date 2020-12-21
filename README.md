@@ -9,9 +9,4 @@ Notebook Covers following
 - Model training CrossEntropy
 - Basic Visualization 
 
-## AutoEncoder
-Notebook Covers following
 
-- Load MNIST image
-- Train single layer DNN 
-- Reconstruction visualization 
